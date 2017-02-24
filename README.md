@@ -1,4 +1,4 @@
-# docker-opencv-java8
+# opencv-java8
 
 OpenCV for Java8
 
